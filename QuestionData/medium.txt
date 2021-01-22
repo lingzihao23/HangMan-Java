@@ -1,0 +1,10 @@
+BANANA|Fruit
+TIGER|Animal
+CAMEL|Animal
+RABBIT|Animal
+NOODLES|Food
+SANDWICH|Food
+COFFEE|Drinks
+RACCOON|Animal
+PARROT|Animal
+JUICE|Drinks

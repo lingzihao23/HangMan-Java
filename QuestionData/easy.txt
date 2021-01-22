@@ -1,0 +1,10 @@
+APPLE|Fruit
+DOG|Animal
+CAT|Animal
+ZEBRA|Animal
+BREAD|Food
+RICE|Food
+BOBA|Drinks
+GIRAFFE|Animal
+LION|Animal
+TEA|Drinks
